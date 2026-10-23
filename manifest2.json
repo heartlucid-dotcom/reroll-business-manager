@@ -1,7 +1,7 @@
 {
-  "name": "RFP Business Manager",
-  "short_name": "RFP Manager",
-  "description": "Offline-first local sales and stock ledger",
+  "name": "Reroll Business Suite",
+  "short_name": "ReRoll",
+  "description": "Managing Money And Sales Locally",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
