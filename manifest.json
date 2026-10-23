@@ -1,7 +1,7 @@
 {
   "name": "Reroll Business Suite",
-  "short_name": "ReRoll",
-  "description": "Managing Money And Sales Locally",
+  "short_name": "Reroll",
+  "description": "Locally Helping You With Your Money.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
